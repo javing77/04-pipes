@@ -8,6 +8,9 @@ import {MenuItem} from 'primeng/api';
 
 import {CardModule} from 'primeng/card';
 import {MenubarModule} from 'primeng/menubar';
+import {ToolbarModule} from 'primeng/toolbar';
+import {TableModule} from 'primeng/table';
+
 
 
 
@@ -17,7 +20,9 @@ import {MenubarModule} from 'primeng/menubar';
     ButtonModule,
     CardModule,
     MenubarModule,
-    FieldsetModule
+    FieldsetModule,
+    ToolbarModule,
+    TableModule
   ],
   imports: [
   ]
